@@ -1,0 +1,15 @@
+C:\Users\Administrator\Desktop\C-WorkSpace\ex4\ex4_9\ex4_9\bin\Debug\net8.0\ex4_9.exe
+C:\Users\Administrator\Desktop\C-WorkSpace\ex4\ex4_9\ex4_9\bin\Debug\net8.0\ex4_9.deps.json
+C:\Users\Administrator\Desktop\C-WorkSpace\ex4\ex4_9\ex4_9\bin\Debug\net8.0\ex4_9.runtimeconfig.json
+C:\Users\Administrator\Desktop\C-WorkSpace\ex4\ex4_9\ex4_9\bin\Debug\net8.0\ex4_9.dll
+C:\Users\Administrator\Desktop\C-WorkSpace\ex4\ex4_9\ex4_9\bin\Debug\net8.0\ex4_9.pdb
+C:\Users\Administrator\Desktop\C-WorkSpace\ex4\ex4_9\ex4_9\obj\Debug\net8.0\ex4_9.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Administrator\Desktop\C-WorkSpace\ex4\ex4_9\ex4_9\obj\Debug\net8.0\ex4_9.AssemblyInfoInputs.cache
+C:\Users\Administrator\Desktop\C-WorkSpace\ex4\ex4_9\ex4_9\obj\Debug\net8.0\ex4_9.AssemblyInfo.cs
+C:\Users\Administrator\Desktop\C-WorkSpace\ex4\ex4_9\ex4_9\obj\Debug\net8.0\ex4_9.csproj.CoreCompileInputs.cache
+C:\Users\Administrator\Desktop\C-WorkSpace\ex4\ex4_9\ex4_9\obj\Debug\net8.0\ex4_9.sourcelink.json
+C:\Users\Administrator\Desktop\C-WorkSpace\ex4\ex4_9\ex4_9\obj\Debug\net8.0\ex4_9.dll
+C:\Users\Administrator\Desktop\C-WorkSpace\ex4\ex4_9\ex4_9\obj\Debug\net8.0\refint\ex4_9.dll
+C:\Users\Administrator\Desktop\C-WorkSpace\ex4\ex4_9\ex4_9\obj\Debug\net8.0\ex4_9.pdb
+C:\Users\Administrator\Desktop\C-WorkSpace\ex4\ex4_9\ex4_9\obj\Debug\net8.0\ex4_9.genruntimeconfig.cache
+C:\Users\Administrator\Desktop\C-WorkSpace\ex4\ex4_9\ex4_9\obj\Debug\net8.0\ref\ex4_9.dll

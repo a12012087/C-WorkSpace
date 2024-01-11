@@ -1,0 +1,15 @@
+C:\Users\Administrator\Desktop\C-WorkSpace\ex3\ex3_5\ex3_5\bin\Debug\net8.0\ex3_5.exe
+C:\Users\Administrator\Desktop\C-WorkSpace\ex3\ex3_5\ex3_5\bin\Debug\net8.0\ex3_5.deps.json
+C:\Users\Administrator\Desktop\C-WorkSpace\ex3\ex3_5\ex3_5\bin\Debug\net8.0\ex3_5.runtimeconfig.json
+C:\Users\Administrator\Desktop\C-WorkSpace\ex3\ex3_5\ex3_5\bin\Debug\net8.0\ex3_5.dll
+C:\Users\Administrator\Desktop\C-WorkSpace\ex3\ex3_5\ex3_5\bin\Debug\net8.0\ex3_5.pdb
+C:\Users\Administrator\Desktop\C-WorkSpace\ex3\ex3_5\ex3_5\obj\Debug\net8.0\ex3_5.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Administrator\Desktop\C-WorkSpace\ex3\ex3_5\ex3_5\obj\Debug\net8.0\ex3_5.AssemblyInfoInputs.cache
+C:\Users\Administrator\Desktop\C-WorkSpace\ex3\ex3_5\ex3_5\obj\Debug\net8.0\ex3_5.AssemblyInfo.cs
+C:\Users\Administrator\Desktop\C-WorkSpace\ex3\ex3_5\ex3_5\obj\Debug\net8.0\ex3_5.csproj.CoreCompileInputs.cache
+C:\Users\Administrator\Desktop\C-WorkSpace\ex3\ex3_5\ex3_5\obj\Debug\net8.0\ex3_5.sourcelink.json
+C:\Users\Administrator\Desktop\C-WorkSpace\ex3\ex3_5\ex3_5\obj\Debug\net8.0\ex3_5.dll
+C:\Users\Administrator\Desktop\C-WorkSpace\ex3\ex3_5\ex3_5\obj\Debug\net8.0\refint\ex3_5.dll
+C:\Users\Administrator\Desktop\C-WorkSpace\ex3\ex3_5\ex3_5\obj\Debug\net8.0\ex3_5.pdb
+C:\Users\Administrator\Desktop\C-WorkSpace\ex3\ex3_5\ex3_5\obj\Debug\net8.0\ex3_5.genruntimeconfig.cache
+C:\Users\Administrator\Desktop\C-WorkSpace\ex3\ex3_5\ex3_5\obj\Debug\net8.0\ref\ex3_5.dll

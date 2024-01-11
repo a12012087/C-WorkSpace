@@ -1,0 +1,15 @@
+C:\Users\Administrator\Desktop\C-WorkSpace\ch3\ch3_11\ch3_11\obj\Debug\net8.0\ch3_11.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Administrator\Desktop\C-WorkSpace\ch3\ch3_11\ch3_11\obj\Debug\net8.0\ch3_11.AssemblyInfoInputs.cache
+C:\Users\Administrator\Desktop\C-WorkSpace\ch3\ch3_11\ch3_11\obj\Debug\net8.0\ch3_11.AssemblyInfo.cs
+C:\Users\Administrator\Desktop\C-WorkSpace\ch3\ch3_11\ch3_11\obj\Debug\net8.0\ch3_11.csproj.CoreCompileInputs.cache
+C:\Users\Administrator\Desktop\C-WorkSpace\ch3\ch3_11\ch3_11\obj\Debug\net8.0\ch3_11.sourcelink.json
+C:\Users\Administrator\Desktop\C-WorkSpace\ch3\ch3_11\ch3_11\bin\Debug\net8.0\ch3_11.exe
+C:\Users\Administrator\Desktop\C-WorkSpace\ch3\ch3_11\ch3_11\bin\Debug\net8.0\ch3_11.deps.json
+C:\Users\Administrator\Desktop\C-WorkSpace\ch3\ch3_11\ch3_11\bin\Debug\net8.0\ch3_11.runtimeconfig.json
+C:\Users\Administrator\Desktop\C-WorkSpace\ch3\ch3_11\ch3_11\bin\Debug\net8.0\ch3_11.dll
+C:\Users\Administrator\Desktop\C-WorkSpace\ch3\ch3_11\ch3_11\bin\Debug\net8.0\ch3_11.pdb
+C:\Users\Administrator\Desktop\C-WorkSpace\ch3\ch3_11\ch3_11\obj\Debug\net8.0\ch3_11.dll
+C:\Users\Administrator\Desktop\C-WorkSpace\ch3\ch3_11\ch3_11\obj\Debug\net8.0\refint\ch3_11.dll
+C:\Users\Administrator\Desktop\C-WorkSpace\ch3\ch3_11\ch3_11\obj\Debug\net8.0\ch3_11.pdb
+C:\Users\Administrator\Desktop\C-WorkSpace\ch3\ch3_11\ch3_11\obj\Debug\net8.0\ch3_11.genruntimeconfig.cache
+C:\Users\Administrator\Desktop\C-WorkSpace\ch3\ch3_11\ch3_11\obj\Debug\net8.0\ref\ch3_11.dll
